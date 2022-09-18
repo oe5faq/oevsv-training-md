@@ -1,0 +1,6 @@
+# Erzeugte Files nicht nach github.com laden
+*.pdf
+*.epub
+*.docx
+*.pptx
+
